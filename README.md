@@ -36,7 +36,7 @@ If you would like to present, please add your name next to a chapter using the [
 This repository is structured as a [{bookdown}](https://CRAN.R-project.org/package=bookdown) site.
 To present, follow these instructions:
 
-1. [Setup Github Locally](https://www.youtube.com/watch?v=hNUNPkoledI) (also see [_HappyHappy Git and GitHub for the useR_](https://happygitwithr.com/github-acct.html))
+1. [Setup Github Locally](https://www.youtube.com/watch?v=hNUNPkoledI) (also see [_Happy Git and GitHub for the useR_](https://happygitwithr.com/github-acct.html))
 2. Install {usethis} `install.packages("usethis")`
 3. `usethis::create_from_github("r4ds/bookclub-BOOKABBR")` (cleanly creates your own copy of this repository).
 4. `usethis::pr_init("my-chapter")` (creates a branch for your work, to avoid confusion).
