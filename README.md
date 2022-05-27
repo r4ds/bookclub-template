@@ -1,32 +1,22 @@
 # R4DS BOOKNAME Book Club
 
-FIND/REPLACE BOOKABBR, BOOKNAME, BOOKURL, BOOKAUTHORS, BOOKPUBLISHER, BOOKCOPYRIGHT, BOOKISBN, BOOKDOI, BOOKDAYS, and BOOKTIMECST THEN DELETE THIS SENTENCE.
+FIND/REPLACE BOOKABBR, BOOKNAME, BOOKURL, BOOKAUTHORS, BOOKPUBLISHER, BOOKCOPYRIGHT, BOOKISBN, BOOKDOI, BOOKDAYS, BOOKCHANNELID, SIGNUPSHEETURL, TIMEANDDATEURL, and BOOKTIMECST THEN DELETE THIS SENTENCE.
 
-ALSO UPDATE THE MEETING TIME INFO BELOW AND DELETE THIS SENTENCE.
+ALSO CONFIRM THE MEETING TIME INFO BELOW AND DELETE THIS SENTENCE.
 
 ALSO ADD PLACEHOLDERS FOR ALL CHAPTERS BY COPYING 01.Rmd (IDEALLY ALSO UPDATE TITLES WITHIN THE FILES), THEN DELETE THIS SENTENCE.
 
 Welcome to the R4DS BOOKNAME Book Club!
 
 We are working together to read [_BOOKNAME_](BOOKURL) by BOOKAUTHORS (BOOKPUBLISHER, copyright BOOKCOPYRIGHT, [BOOKISBN](BOOKDOI)).
-Join the #book_club-BOOKABBR channel on the [R4DS Slack](https://r4ds.io/join) to participate.
+Join the [#book_club-BOOKABBR](https://rfordatascience.slack.com/archives/BOOKCHANNELID) channel on the [R4DS Slack](https://r4ds.io/join) to participate.
 As we read, we are producing [notes about the book](https://r4ds.io/BOOKABBR).
 
 ## Meeting Schedule
 
-If you would like to present, please add your name next to a chapter using the [GitHub Web Editor](https://youtu.be/d41oc2OMAuI)!
+If you would like to present, please see the sign-up sheet for your cohort (linked below, and pinned in the [#book_club-BOOKABBR](https://rfordatascience.slack.com/archives/BOOKCHANNELID) channel on Slack)!
 
-*Cohort 1: BOOKDAYS, BOOKTIMECST CST/CDT*
-
-<details>
-  <summary> Past Meetings </summary>
-  
-(none yet)
-</details>
-
-- YYYY-MM-DD: Introduction - FACILITATOR
-- YYYY-MM-DD: Chapter 1 (TITLE) - Presenter TBD
-
+- [Cohort 1](SIGNUPSHEETURL): [BOOKDAYS, BOOKTIMECST CST/CDT](TIMEANDDATEURL)
 
 <hr>
 
