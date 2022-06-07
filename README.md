@@ -39,7 +39,7 @@ Do these steps once:
 Do these steps each time you present another chapter:
 
 1. Open your project for this book.
-2. `usethis::pr_init("my-chapter")` (creates a branch for your work, to avoid confusion, making sure that you have the latest changes from other contributors).
+2. `usethis::pr_init("my-chapter")` (creates a branch for your work, to avoid confusion, making sure that you have the latest changes from other contributors; replace `my-chapter` with a descriptive name, ideally).
 3. `devtools::install_dev_deps()` (installs any packages used by the book that you don't already have installed).
 4. Edit the appropriate chapter file, if necessary. Use `##` to indicate new slides (new sections).
 5. If you use any packages that are not already in the `DESCRIPTION`, add them. You can use `usethis::use_package("myCoolPackage")` to add them quickly!
