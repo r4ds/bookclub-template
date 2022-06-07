@@ -30,7 +30,11 @@ Do these steps once:
 
 1. [Setup Github Locally](https://www.youtube.com/watch?v=hNUNPkoledI) (also see [_Happy Git and GitHub for the useR_](https://happygitwithr.com/github-acct.html))
 2. Install {usethis} and {devtools} `install.packages(c("usethis", "devtools"))`
-3. `usethis::create_from_github("r4ds/bookclub-BOOKABBR")` (cleanly creates your own copy of this repository).
+3. Set up a default {usethis} directory:
+  - `usethis::edit_r_profile()` to open your profile for editing.
+  - Add this line: `options(usethis.destdir = "YOURDIR")` (replace `YOURDIR` with the root directory under which you want your R projects to appear; or you can skip these steps, and the project will be saved to your Desktop).
+  - Restart your R session (Session/Restart R in Rstudio).
+4. `usethis::create_from_github("r4ds/bookclub-BOOKABBR")` (cleanly creates your own copy of this repository).
 
 Do these steps each time you present another chapter:
 
