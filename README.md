@@ -2,7 +2,8 @@
 
 Welcome to the R4DS {{{book_name}}} Book Club!
 
-We are working together to read [_{{{book_name}}}_]({{{book_url}}}) by {{{book_authors}}} (copyright {{{book_copyright}}}{{#published}}; available from [{{{book_publisher}}}]({{{book_publisher_url}}}){{/published}}).
+We are working together to read [_{{{book_name}}}_]({{{book_url}}}) by {{{book_authors}}} (copyright {{{book_copyright}}}).
+{{#print}}If you would like a print version, please consider purchasing it using our [Amazon Affiliates link]({{{print_url}}}). All profits from purchases through that link go toward maintaining the R4DS Online Learning Community.{{/print}}
 Join the [#book_club-{{{book_abbr}}}](https://rfordatascience.slack.com/archives/{{{book_channel_id}}}) channel on the [R4DS Slack](https://r4ds.io/join) to participate.
 As we read, we are producing [notes about the book](https://r4ds.io/{{{book_abbr}}}).
 
@@ -10,7 +11,7 @@ As we read, we are producing [notes about the book](https://r4ds.io/{{{book_abbr
 
 If you would like to present, please see the sign-up sheet for your cohort (linked below, and pinned in the [#book_club-{{{book_abbr}}}](https://rfordatascience.slack.com/archives/{{{book_channel_id}}}) channel on Slack)!
 
-- [Cohort 1]({{{cohort01_signup_url}}}) (started {{{cohort01_start_date}}}): [{{{cohort01_days}}}, {{{cohort01_time_cst}}} CST/CDT]({{{cohort01_timeanddate_url}}}) | [meeting videos]({{{cohort01_youtube}}})
+- [Cohort 1]({{{cohort01_signup_url}}}) (started {{{cohort01_start_date}}}, facilitated by {{{cohort01_facilitator_handle}}}): [{{{cohort01_day}}}, {{{cohort01_time_cst}}} CST/CDT]({{{cohort01_timeanddate_url}}}) | [meeting videos]({{{cohort01_youtube}}})
 
 <hr>
 
