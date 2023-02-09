@@ -42,3 +42,7 @@ Do these steps each time you present another chapter:
 
 When your PR is checked into the main branch, the bookdown site will rebuild, adding your slides to [this site](https://r4ds.io/{{{book_abbr}}}).
 
+
+## Code of Conduct
+
+Please note that the bookclub-{{{book_abbr}}} project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
