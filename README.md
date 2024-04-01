@@ -1,10 +1,10 @@
-# R4DS {{{book_name}}} Book Club
+# DSLC {{{book_name}}} Book Club
 
-Welcome to the R4DS {{{book_name}}} Book Club!
+Welcome to the DSLC {{{book_name}}} Book Club!
 
 We are working together to read [_{{{book_name}}}_]({{{book_url}}}) by {{{book_authors}}} (copyright {{{book_copyright}}}).
-{{#print}}If you would like a print version, please consider purchasing it using our [Amazon Affiliates link]({{{print_url}}}). All profits from purchases through that link go toward maintaining the R4DS Online Learning Community.{{/print}}
-Join the [#book_club-{{{book_abbr}}}](https://rfordatascience.slack.com/archives/{{{book_channel_id}}}) channel on the [R4DS Slack](https://r4ds.io/join) to participate.
+{{#print}}If you would like a print version, please consider purchasing it using our [Amazon Affiliates link]({{{print_url}}}). All profits from purchases through that link go toward maintaining the Data Science Learning Community.{{/print}}
+Join the [#book_club-{{{book_abbr}}}](https://rfordatascience.slack.com/archives/{{{book_channel_id}}}) channel on the [DSLC Slack](https://r4ds.io/join) to participate.
 As we read, we are producing [notes about the book](https://r4ds.io/{{{book_abbr}}}).
 
 ## Meeting Schedule
