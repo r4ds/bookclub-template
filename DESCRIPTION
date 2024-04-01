@@ -2,7 +2,7 @@ Package: bookclub-{{{book_abbr}}}
 Title: {{{book_name}}} Book Club
 Version: 0.0.1
 Authors@R: 
-    person("R4DS Online Learning Community", , , "rfordatasci@gmail.com", role = c("aut", "cre", "cph"))
+    person("Data Science Learning Community", , , "rfordatasci@gmail.com", role = c("aut", "cre", "cph"))
 URL: https://r4ds.github.io/bookclub-{{{book_abbr}}},
     https://github.com/r4ds/bookclub-{{{book_abbr}}}
 Depends:
