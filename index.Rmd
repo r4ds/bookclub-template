@@ -16,9 +16,9 @@ description: "This website is the product of the Data Science Learning Community
 Welcome to the {{{book_name}}} book club! 
 
 This website is a companion for the book [_{{{book_name}}}_]({{{book_url}}}) by {{{book_authors}}} (copyright {{{book_copyright}}}{{#published}}; available from [{{{book_publisher}}}]({{{book_publisher_url}}}){{/published}}).
-This companion is available at [r4ds.io/{{{book_abbr}}}](https://r4ds.io/{{{book_abbr}}}).
+This companion is available at [dslc.io/{{{book_abbr}}}](https://dslc.io/{{{book_abbr}}}).
 
-This website is being developed by the [Data Science Learning Community](https://dslc.io). Follow along, and [join the community](https://r4ds.io/join) to participate.
+This website is being developed by the [Data Science Learning Community](https://dslc.io). Follow along, and [join the community](https://dslc.io/join) to participate.
 
 This companion follows the [Data Science Learning Community Code of Conduct](https://dslc.io/code_of_conduct.html).
 
@@ -28,7 +28,7 @@ This companion follows the [Data Science Learning Community Code of Conduct](htt
   - **This is the best way to learn the material!**
 - Presentations will usually consist of a review of the material, a discussion, and/or a demonstration of the principles presented in that chapter.
 - More information about how to present is available in the [github repo](https://github.com/r4ds/bookclub-{{{book_abbr}}}).
-- Presentations will be recorded, and will be available on the [Data Science Learning Community YouTube Channel](https://r4ds.io/youtube).
+- Presentations will be recorded, and will be available on the [Data Science Learning Community YouTube Channel](https://dslc.io/youtube).
 
 ## Pace {-}
 
